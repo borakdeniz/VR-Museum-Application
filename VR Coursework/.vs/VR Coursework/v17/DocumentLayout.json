@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Projects\\VR Coursework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0409EC5-0945-57F7-4914-95319049FAB5}|Assembly-CSharp.csproj|d:\\unity projects\\vr coursework\\assets\\scripts\\handanimatorcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0409EC5-0945-57F7-4914-95319049FAB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\handanimatorcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0409EC5-0945-57F7-4914-95319049FAB5}|Assembly-CSharp.csproj|d:\\unity projects\\vr coursework\\assets\\scripts\\scenemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0409EC5-0945-57F7-4914-95319049FAB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0409EC5-0945-57F7-4914-95319049FAB5}|Assembly-CSharp.csproj|d:\\unity projects\\vr coursework\\assets\\scripts\\keydooropen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0409EC5-0945-57F7-4914-95319049FAB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\keydooropen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0409EC5-0945-57F7-4914-95319049FAB5}|Assembly-CSharp.csproj|D:\\Unity Projects\\VR Coursework\\assets\\scripts\\climbprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0409EC5-0945-57F7-4914-95319049FAB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\climbprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0409EC5-0945-57F7-4914-95319049FAB5}|Assembly-CSharp.csproj|D:\\Unity Projects\\VR Coursework\\assets\\scripts\\charactercontrollergravity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0409EC5-0945-57F7-4914-95319049FAB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactercontrollergravity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HandAnimatorComponent.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\VR Coursework\\Assets\\Scripts\\HandAnimatorComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HandAnimatorComponent.cs",
+              "ToolTip": "D:\\Unity Projects\\VR Coursework\\Assets\\Scripts\\HandAnimatorComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HandAnimatorComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:39:31.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneManagerScript.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\VR Coursework\\Assets\\Scripts\\SceneManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneManagerScript.cs",
+              "ToolTip": "D:\\Unity Projects\\VR Coursework\\Assets\\Scripts\\SceneManagerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneManagerScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:26:49.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeyDoorOpen.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\VR Coursework\\Assets\\Scripts\\KeyDoorOpen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KeyDoorOpen.cs",
+              "ToolTip": "D:\\Unity Projects\\VR Coursework\\Assets\\Scripts\\KeyDoorOpen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KeyDoorOpen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:25:56.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClimbProvider.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\VR Coursework\\Assets\\Scripts\\ClimbProvider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClimbProvider.cs",
+              "ToolTip": "D:\\Unity Projects\\VR Coursework\\Assets\\Scripts\\ClimbProvider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClimbProvider.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:23:08.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CharacterControllerGravity.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\VR Coursework\\Assets\\Scripts\\CharacterControllerGravity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterControllerGravity.cs",
+              "ToolTip": "D:\\Unity Projects\\VR Coursework\\Assets\\Scripts\\CharacterControllerGravity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterControllerGravity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:22:08.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
